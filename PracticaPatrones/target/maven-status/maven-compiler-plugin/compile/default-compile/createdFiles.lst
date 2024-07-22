@@ -1,0 +1,10 @@
+com\mycompany\main\DecoradorBordes.class
+com\mycompany\main\TextoMayusculas.class
+com\mycompany\main\FormatoTexto.class
+com\mycompany\main\Info.class
+com\mycompany\main\Observer.class
+com\mycompany\main\PracticaPatrones.class
+com\mycompany\main\Subject.class
+com\mycompany\main\Logger.class
+com\mycompany\main\Subscriber.class
+com\mycompany\main\TextoOriginal.class
